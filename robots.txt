@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /secret/
+Disallow: /sitemap.xml/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /logs/
+
+Sitemap: https://www.codeavenues.com/sitemap.xml
